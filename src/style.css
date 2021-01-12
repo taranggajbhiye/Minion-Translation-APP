@@ -1,0 +1,54 @@
+.header{
+    text-align: center;
+    padding: 1rem 2rem 0rem 2rem;
+    background-color: lightblue;
+    color: darkblue;
+    border: none;
+    width: 100%;
+}
+
+
+.footer{
+    background-color: lightblue;
+    color: darkblue;
+    padding:1rem 2rem 1rem 2rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-height: 20%;
+}
+
+
+.btn-centered{
+    text-align: center;    
+}
+
+#app-btn-translate{
+    color: darkblue;
+    background-color:lightblue;
+    border:2px darkblue;
+   
+}
+
+#app-input{
+    position: relative;
+    border: 1px solid black;
+    height: 8vh;
+    width: 80%;
+    padding: 1rem;
+    display: block;
+    margin:auto;
+    
+}
+
+
+#app-output {
+    border: 1px solid black;
+    height: 8vh;
+    width: 80%;
+    padding: 1rem;
+    display: block;
+    margin:auto;
+    color: black;   
+}
